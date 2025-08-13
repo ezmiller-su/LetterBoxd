@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Letterboxd: Stream
-// @version      2.0.2
+// @author       ejmlr
+// @version      2.0.3
 // @description  Embeds the movie directly into the Letterboxd UI.
 // @match        https://letterboxd.com/film/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=letterboxd.com
