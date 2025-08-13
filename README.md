@@ -1,1 +1,1 @@
-# [Click to Install](raw.github.com/ezmiller-su/LetterBoxd/main/letterboxd-stream.user.js)
+# [Click to Install](https://raw.github.com/ezmiller-su/LetterBoxd/main/letterboxd-stream.user.js)
