@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Letterboxd: Stream
-// @version      2.0
+// @version      2.0.1
 // @description  Embeds the movie directly into the Letterboxd UI.
 // @match        https://letterboxd.com/film/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=letterboxd.com
 // @grant        GM_addStyle
 // @license      MIT
-// @download     https://github.com/ezmiller-su/LetterBoxd/raw/refs/heads/main/letterboxd-watch.user.js
-// @update       https://github.com/ezmiller-su/LetterBoxd/raw/refs/heads/main/letterboxd-watch.user.js
+// @download     https://github.com/ezmiller-su/LetterBoxd/raw/refs/heads/main/letterboxd-stream.user.js
+// @update       https://github.com/ezmiller-su/LetterBoxd/raw/refs/heads/main/letterboxd-stream.user.js
 // ==/UserScript==
 
 (function() {
